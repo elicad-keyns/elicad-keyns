@@ -20,7 +20,7 @@
 
 ## Contact with me:
 [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)](https://vk.com/elicad.keyns)
-[![Telegram](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram)](t.me/elicad_keyns)
+[![Telegram](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram)](https://t.me/elicad_keyns)
 
 ### About my github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicad-keyns&layout=compact)](https://github.com/elicad-keyns)
